@@ -1,7 +1,8 @@
 # Token-Hoster
 Hi
 # How to use
-Simple copy the code on replit and click run
-Input token in tokens.txt
+1.Simple copy the code on replit and click run
+
+2.Input token in tokens.txt
 # Discord
 https://discord.gg/fAKDraUSdD
